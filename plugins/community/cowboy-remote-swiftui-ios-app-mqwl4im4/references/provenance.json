@@ -1,0 +1,19 @@
+{
+  "candidateId": "3a917a10-0910-4a3d-92da-c354497e36b4",
+  "projectId": "aac23967-1887-4a88-bce5-36ad1b78ab5b",
+  "runId": "ddff424c-e45d-4c3a-ad02-93a923e1ba2b",
+  "conversationId": "849bb48e-7c99-43fb-af85-909e0888c318",
+  "provenance": {
+    "summary": "Detected from swift-remote/README.md after a successful run.",
+    "detectedAt": 1782578283079
+  },
+  "sourceRefs": [
+    {
+      "kind": "file",
+      "value": "swift-remote/README.md",
+      "label": "swift-remote/README.md",
+      "size": 1844,
+      "copied": true
+    }
+  ]
+}

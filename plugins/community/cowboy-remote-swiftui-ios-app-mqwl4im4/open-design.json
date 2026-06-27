@@ -1,0 +1,22 @@
+{
+  "$schema": "https://open-design.ai/schemas/plugin.v1.json",
+  "specVersion": "1.0.0",
+  "name": "cowboy-remote-swiftui-ios-app-mqwl4im4",
+  "title": "Cowboy Remote — SwiftUI iOS app",
+  "version": "0.1.0",
+  "description": "A standalone SwiftUI app that mirrors the ScarfGo iOS surface but with the COWBOY frontier-tech dark visual system.",
+  "od": {
+    "kind": "skill",
+    "taskKind": "new-generation",
+    "context": {
+      "skills": [
+        {
+          "path": "./SKILL.md"
+        }
+      ]
+    },
+    "capabilities": [
+      "prompt:inject"
+    ]
+  }
+}
